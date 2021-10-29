@@ -1,9 +1,10 @@
  
 
-for i in range(10) :
-    if i$2==0:
-        print('python')
+for j in range(1,15) :
+    if j%2==1:
+        print('{} conda'.format(j))
     else:
-        print(f'{i}')
+        print ('{}')
+
 
 
